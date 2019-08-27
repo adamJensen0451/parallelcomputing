@@ -9,4 +9,4 @@ To compile the program on a terminal the required command line is:
                       gcc -fopenmp parallel_computing_task.c
                        
 To run the program after compilation, enter:
-                      ./a.out  
+                      ./a.out                
