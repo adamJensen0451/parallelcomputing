@@ -10,3 +10,5 @@ To compile the program on a terminal the required command line is:
                        
 To run the program after compilation, enter:
                       ./a.out                
+
+So these are some edits to test git. This is the first one, to be clear.

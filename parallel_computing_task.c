@@ -57,7 +57,7 @@ int main()
                     }
                 }
 
-
+//Adding a comment as a part of edit 1
 // we consider every element as the bottom right element of a 2x2 matrix(and perform the above operation)
 
     printf("The area of the largest submatrix containing only ones is %d\n",max*max);    
